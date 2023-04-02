@@ -1,0 +1,58 @@
+body{
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+#card{
+    margin: auto;
+    
+}
+
+.card-title{
+    text-align: center;
+}
+.card-text{
+    font-size: 13px;
+    text-align: center;
+}
+#btn1{
+    background-color: rgba(147, 78, 212, 0.623);
+    width: 80%;
+    margin: auto auto auto 33px;
+    color: #fff;
+}
+#btn1:hover{
+    color: rgba(147, 78, 212, 0.623);
+    background-color: #fff;
+    cursor: pointer;
+}
+#btn2{
+    width: 80%;
+    margin: auto auto auto 33px; 
+}
+#btn2:hover{
+    background-color: rgba(147, 78, 212, 0.623);
+    color: #fff;
+    cursor: pointer;
+}
+ #change{
+    cursor: pointer;
+    margin: auto;
+ }
+ #change:hover{
+    color: rgba(147, 78, 212, 0.623);
+ }
+ .row{
+    background-color: rgba(56, 85, 85, 0.26);
+    width: 95%;
+    margin: auto;
+ }
+ .anual{
+    font-size: 15px;
+ }
+ #XD{
+    margin: 15px auto auto auto;
+ }
+ #img{
+    margin: auto;
+ }
